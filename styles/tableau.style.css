@@ -1,0 +1,48 @@
+/* Shaylee Schiffman */
+/* Tableau Style */ 
+
+body { 
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: rgb(188, 156, 143);
+    color:rgb(77, 54, 54);
+    font-weight: bold;
+    text-decoration: none;
+    text-align: center;
+}
+
+.header_tab_name {
+    text-align: center;
+    font-size:xx-large;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+
+.head a {
+    text-decoration: none;
+    color: snow;
+}
+
+.head a:hover {
+    color:rgb(188, 156, 143)
+}
+
+.head {
+    background-color: rgb(126, 89, 88);
+    line-height: 2rem;
+    text-align: center;
+}
+
+.tableau-column-wrapper {
+    margin-left: 6rem;
+    margin-right: 6rem;
+}
+
+.tableau-row {
+    margin-top: 2rem;
+}
+
+.footer {
+    margin-top: 2rem;
+    color: snow;
+    font-weight: normal;
+}
